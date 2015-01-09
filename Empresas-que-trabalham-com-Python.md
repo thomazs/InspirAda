@@ -9,6 +9,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - 4linux
 - 8Lab
 - A Gazeta da Zona Norte
+- aQuiAlli
 - AgÃªncia 128 Bits
 - AgÃªncia Tree
 - Amazon
@@ -66,6 +67,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - GTI Engenharia Jr.
 - Halts
 - HUBtech
+- Hydros Assessoria
 - IFCE
 - IFPE
 - IFPI
@@ -135,6 +137,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Triveos
 - Twitter
 - UCS
+- UFAC
 - UFRN
 - UFSM
 - Upando

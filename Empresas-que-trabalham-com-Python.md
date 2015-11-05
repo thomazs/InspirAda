@@ -15,6 +15,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Amazon
 - Ananke
 - APB Prodata
+- aQui Alli (BT Domingos Ltda)
 - Aricanduva Lanches
 - Atepassar
 - AvelinoLabs
@@ -72,6 +73,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Halts
 - Hotel Urbano
 - HUBtech
+- Hydros Consultoria e Desenvolvimento
 - IFCE
 - IFPE
 - IFPI
@@ -142,6 +144,7 @@ PS.: Caso vocÃª encontre alguma empresa que falta nessa lista ou alguma que estÃ
 - Triveos
 - Twitter
 - UCS
+- UFAC
 - UFRN
 - UFSM
 - Upando
